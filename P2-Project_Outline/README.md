@@ -7,9 +7,11 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Have you ever been overwhelmed with work and life. How can you manage and not miss appointments. I believe a Planner would be great for your everyday life. This planner will help to organize everything from work meetings to preparing a todo list for the grocery store. This idea came from my busy life of using multiple planners with work and personal life. With this planner I have the ability to combine and categorize work life and home life.
 ### Features
-Include Features here
+*Create ToDo-User will be able to create a new todo.
+*Search-User will be able to search for ToDo posts containing keywords or dates.
+*
 ### Technologies
 Include Technologies here
 ### What I'll Have to Learn
