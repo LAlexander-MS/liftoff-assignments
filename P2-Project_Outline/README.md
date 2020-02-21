@@ -11,10 +11,12 @@ Have you ever been overwhelmed with work and life. How can you manage and not mi
 ### Features
 *Create ToDo-User will be able to create a new todo.
 *Search-User will be able to search for ToDo posts containing keywords or dates.
-*
+*Delete-User will have the ability to delete and notified when ToDo task has expired.
 ### Technologies
-Include Technologies here
+*Java
+*MySQL
+*Thymeleaf templates
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will have to learn angular and get familiar with bootstrap to be sure that my project is presentable.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/R6GMxvEL/liftoff-todo-project
