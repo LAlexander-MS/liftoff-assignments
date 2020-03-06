@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Sent 4 Wireframe pictures through slack
+Sent 4 Wireframe pictures through slack.
 
 ### Project Tracker
 
